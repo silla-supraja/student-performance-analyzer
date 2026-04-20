@@ -21,3 +21,6 @@ This project is built using Python and SQLite to analyze student performance.
 
 ## 👩‍💻 Author
 Silla Supraja
+
+## 📸 Output Screenshot
+![Output](output.png)
